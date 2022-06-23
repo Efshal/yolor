@@ -1,0 +1,6 @@
+train: /yolor/train/ #full path to train folder that include image and label folders
+test: /yolor/test/ #full path to validation or test folder that include image and label folders
+
+nc: 4 # no of classes
+
+names: ["Car", "Truck", "Stop-Sign", "Traffic-Light"] #classesname
